@@ -8,8 +8,8 @@
         "modular",
         "productivity"
     ],
-    "repository": "https://github.com/SpEcHiDe/SessionMakerBot",
-    "website": "https://telegram.dog/UniBorg",
+    "repository": "https://github.com/kannadamoviesrequestbot/SessionMakerBot",
+    "website": "https://github.com/kannadamoviesrequestbot/SessionMakerBot",
     "success_url": "https://t.me/UniBorg/55",
     "env": {
         "APP_ID": {
